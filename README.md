@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chin 曾炳胜
+- 👋 Hi, I’m 曾炳胜
 - 👀  SG 
 - 🌱 I’m currently learning Python
 - 💞️ 
